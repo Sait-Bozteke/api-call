@@ -1,4 +1,4 @@
-// src/types/User.ts
+// this is for type
 export interface User {
   id: number;
   name: string;
